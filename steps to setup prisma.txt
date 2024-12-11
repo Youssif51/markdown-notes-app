@@ -1,0 +1,4 @@
+1- npx prisma init --datasource-provider postgresql
+2- setup your model on schema.prisma
+2- after finsh the model do => npx prisma migrate dev --name init
+3- debloy it 
